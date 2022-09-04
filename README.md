@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @himanshukainthola
 - 👀 I’m interested in Web Devlopment
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on building entry level projects
+- 📫 You can reach me at hkainthola6@gmail.com
 
 <!---
 himanshukainthola/himanshukainthola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
