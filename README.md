@@ -6,7 +6,7 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=himanshukainthola)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=himanshukainthola&theme=tokyonight&border_radius=10&border=6D9CEB&ring=3B30EB&fire=EB350A)](https://git.io/streak-stats)
 
 <!---
 himanshukainthola/himanshukainthola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
