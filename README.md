@@ -8,6 +8,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=himanshukainthola&theme=tokyonight&border_radius=10&border=6D9CEB&ring=3B30EB&fire=EB350A)](https://git.io/streak-stats)
 
+![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshukainthola&show_icons=true&theme=radical)
+
 <!---
 himanshukainthola/himanshukainthola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
