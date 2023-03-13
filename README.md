@@ -10,6 +10,8 @@
 
 ![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshukainthola&show_icons=true&theme=radical)
 
+[![](https://visitcount.itsvg.in/api?id=himanshukainthola&label=Profile%20Views&color=6&icon=6&pretty=true)](https://visitcount.itsvg.in)
+
 <!---
 himanshukainthola/himanshukainthola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
